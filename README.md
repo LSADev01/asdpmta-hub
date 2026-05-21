@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o LSADev! 👋
 
-<!--
-**asdpmta-hub/asdpmta-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de programação focado em aprender **Python** e lógica de programação. Atualmente estou desenvolvendo meus primeiros projetos e automatizando rotinas!
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo:
+* **Linguagens:** Python (foco atual)
+* **Ferramentas:** PyCharm, Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Principais Projetos:
+* [Gerenciador de Rotina Diária](./gerenciador_rotina.py) - Um sistema em linha de comando feito em Python para organizar tarefas diárias, aplicando conceitos de listas, loops e condicionais.
+
+### 📫 Como me encontrar:
+* LinkedIn: [Link para o seu LinkedIn]
+* E-mail: seu.email@email.com
